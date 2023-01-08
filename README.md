@@ -8,6 +8,7 @@ For Udacity Data Analyst project 2(Wrangle and Analyze Data), I gather data from
 
 ## Introduction
 The dataset in this project is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. WeRateDogs has over 4 million followers and has received international media coverage. 
+
 The goal is to wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The twitter data however contains very basic information. Therefore,  additional gathering of data is carried out using twitter API and image prediction data before assessing and cleaning.
 
 ## Process
