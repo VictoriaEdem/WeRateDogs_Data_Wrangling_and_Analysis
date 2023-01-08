@@ -7,11 +7,7 @@ For Udacity Data Analyst project 2(Wrangle and Analyze Data), I gather data from
 
 
 ## Introduction
-The dataset, originally from [Kaggle](https://www.kaggle.com/datasets/joniarroba/noshowappointments) contains information from 100,000 medical appointments in Brazil and its 14 associated variables. The questions asked are:
-  * Do women take more care of their health when compared to men?
-  * How does hypertension affect the chances of a patient showing up for their appointments?
-  * Is age a factor that causes patients to show up more for their appointments?
-  * What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment?
+The dataset in this project is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. WeRateDogs has over 4 million followers and has received international media coverage. The goal is to wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The twitter data however contains very basic information. Therefore,  additional gathering of data is carried out using twitter API and image prediction data before assessing and cleaning.
 
 ## Process
 1. Having already installed Python and Anaconda, I use the following libraries:
@@ -27,16 +23,9 @@ The dataset, originally from [Kaggle](https://www.kaggle.com/datasets/joniarroba
 7. Reporting on - data wrangling efforts, data analyses and visualizations.
 
 
-2. Data Wrangling 
-   * Data Assessment
-   * Data Cleaning
-3. Exploratory Data Analysis
-4. Conclusions
-
 ## Insights
-  * Women take better care of their health when compared to men.
-  * Hypertension in a patient increases inclination to show up for appointments.
-  * Age is a factor that causes patients to show up for their appointments. Babies and elderly patients have the most show ups to appointment.
-  * Hypertension, Diabetes, Age, Month, Day of the week, Alcoholism, and Handicap are important factors to help predict if a patient will show up for their appointment.
+  * The source of most WeRateDogs account tweets are from an iPhone using the Twitter app.
+  * A tweet containing the image of a Golden retriever has the most likes and retweets of all dog species posted.
+  * Tweets with more retweets are likely to have a high number of likes. It is also likely that tweets made from an iPhone get more likes than others although this maybe be dependent on other factors, like content of tweet.
  
 
